@@ -1,2 +1,2 @@
 # Drum-kit
-Project Javascript
+Project with Javascript
